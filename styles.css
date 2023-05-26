@@ -3,3 +3,9 @@
   font-family: fantasy;
   font-style: oblique;
 }
+
+html, body {
+  height: 100%;
+  margin: 10%;
+}
+
